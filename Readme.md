@@ -1,1 +1,1 @@
-Private plugin for testing the functionality of RPGMaker MV in javascript.
+Personal plugin for testing the functionality of RPGMaker MV in javascript.
