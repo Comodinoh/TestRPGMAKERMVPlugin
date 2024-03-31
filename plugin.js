@@ -1,4 +1,4 @@
-/*
+/*:
  * @plugindesc Test plugin
  * @author Comodinoh
  * 
@@ -40,8 +40,4 @@
  * Github page:
  * 
  * meow
- * 
- * 
- * 
- * 
 */
